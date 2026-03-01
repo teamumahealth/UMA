@@ -1,0 +1,8 @@
+{
+  "include": ["app.py", "chatbot.js", "github_data_scraper.py"],
+  "pythonVersion": "3.11",
+  "pythonPlatform": "Windows",
+  "typeCheckingMode": "basic",
+  "venvPath": ".",
+  "venv": ".venv"
+}
