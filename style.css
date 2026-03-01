@@ -249,17 +249,6 @@ section::before {
     visibility: hidden;
     pointer-events: none;
 }
-.contact {
-    padding: 90px 0;
-    text-align: center;
-}
-.contact h2 {
-    margin-bottom: 24px;
-}
-.contact p {
-    font-size: 16px;
-    line-height: 1.8;
-}
 @media (max-width: 768px) {
     .team {
         padding: 90px 0;
@@ -277,3 +266,5 @@ section::before {
         height: 100px;
     }
 }
+
+

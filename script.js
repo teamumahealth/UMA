@@ -70,3 +70,4 @@ function animateStars() {
 }
 initStars(window.innerWidth < 768 ? 120 : 220);
 animateStars();
+
